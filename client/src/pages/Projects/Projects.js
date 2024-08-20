@@ -45,10 +45,10 @@ const Projects = () => {
                   </h5>
                 </div>
                 <div className="btn-container">
-                  <a className="ad-btn" href="https://github.com/abdulRahman3070/Simon-Says-Game">
+                  <a className="ad-btn" href="https://github.com/abdulrahmanmundhera3637/Simon_Says-Game">
                     Source Code
                   </a>
-                  <a className="ad-btn" href="https://example.com/simon-says-game" target="_blank" rel="noopener noreferrer">
+                  <a className="ad-btn" href="https://simon-says-game-orcin.vercel.app" target="_blank" rel="noopener noreferrer">
                     View Website
                   </a>
                 </div>
@@ -77,10 +77,10 @@ const Projects = () => {
                   </h5>
                 </div>
                 <div className="btn-container">
-                  <a className="ad-btn" href="https://github.com/abdulRahman3070/Mern--Ecommerace-app">
+                  <a className="ad-btn" href="https://github.com/abdulrahmanmundhera3637/MERN-ECOMMERCACE-APP">
                     Source Code
                   </a>
-                  <a className="ad-btn" href="https://example.com/mern-ecommerce-app" target="_blank" rel="noopener noreferrer">
+                  <a className="ad-btn" href="https://mern-frontend-phi-mauve.vercel.app/" target="_blank" rel="noopener noreferrer">
                     View Website
                   </a>
                 </div>
@@ -107,10 +107,10 @@ const Projects = () => {
                   </h5>
                 </div>
                 <div className="btn-container">
-                  <a className="ad-btn" href="https://github.com/abdulRahman3070/mern-portfolio-app">
+                  <a className="ad-btn" href="https://github.com/abdulrahmanmundhera3637/MERN-PORTFOLIO-APP">
                     Source Code
                   </a>
-                  <a className="ad-btn" href="https://example.com/mern-portfolio-project" target="_blank" rel="noopener noreferrer">
+                  <a className="ad-btn" href="https://my-personal-portfolio-frontend-qekm.vercel.app/" target="_blank" rel="noopener noreferrer">
                     View Website
                   </a>
                 </div>
